@@ -6,7 +6,7 @@ python src/<script>
 ```
 
 ## To fix
-- [ ] GOST
-- [ ] RSA 
+- [x] GOST
+- [x] RSA 
 - [x] Hash
-- [ ] Digital signature 
+- [x] Digital signature 
